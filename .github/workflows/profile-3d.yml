@@ -18,15 +18,12 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Install Dependencies
-        run: |
-          npm install -g github-profile-3d-contrib
-
       - name: Generate 3D Contribution Graph
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}  # 你的 GitHub Personal Access Token
-        run: |
-          github-profile-3d-contrib --username ${{ github.repository_owner }} --output ./profile-3d-contrib --theme night-rainbow
+        uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          username: ${{ github.repository_owner }}
+          theme: night-rainbow
 
       - name: Commit & Push SVG
         run: |
