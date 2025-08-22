@@ -1,59 +1,70 @@
-<!-- 顶部 Banner -->
+# Hi there, I'm Yanbing Xu 👋
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00ffcc&height=200&section=header&text=Hi%20👋,%20I'm%20徐雁冰&fontSize=40&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Graphics+Developer+%7C+Realtime+Ray+Tracing+%7C+Rendering+Engineer;Passionate+about+Rendering%2C+GI+Algorithms%2C+and+Optimization;Always+learning+and+building+cool+stuff" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 关于我
+## 🧑‍💻 About Me
 
-> 图形开发者 | 实时渲染 | DXR | UE & Unity | OpenUSD 仿真 | MTSS SDK
-
-- 🎓 本科 & 研究生：南京航空航天大学
-- 💼 **摩尔线程** 图形开发者技术工程师
-- 💡 主要方向：实时光追、全局光照、降噪算法、USD仿真平台、DLSS 对标技术
-- 🎮 熟悉 **Unreal Engine**、**Unity**、**Vulkan**、**DirectX 12**
-- ✍️ 正在研究 **DXR 1.1**、**实时 Path Tracing**、**多种GI算法**
+- 🎓 Master's degree in Communication and Information Systems from **NUAA**
+- 💻 Experienced in **real-time ray tracing, GI algorithms, path tracing, denoising, and USD-based simulation**
+- 🛠 Skilled in **C++ · Vulkan · DXR · OpenGL · Unreal Engine · Unity · OpenUSD**
+- 🌱 Continuously exploring **advanced rendering pipelines and simulation frameworks**
+- 🚀 Enthusiastic about combining **graphics & AI** to push visual quality to the next level
 
 ---
 
-## 🛠 技术栈
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cmake,git,linux&theme=light"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,vulkan,d3d,opengl&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,python,vulkan,opengl,unity,unreal,git,github,linux,qt&perline=6" />
 </p>
 
 ---
 
-## 🚀 精选项目
+## 🚀 Featured Projects
 
-| 项目 | 技术 | 描述 |
-|------|------|------|
-| **实时 Path Tracing Benchmark** | DXR 1.0/1.1, Vulkan | 构建完整的 Path Tracing 渲染管线，支持多种 BVH 实现，提供可重复性能测试框架 |
-| **USD 仿真平台** | OpenUSD, PhysX, Hydra | 基于 OpenUSD 实现具身智能仿真，封装多渲染器后端，实现与 NVIDIA Isaac 兼容 |
-| **MTSS SDK** | Vulkan, UE Plugin | 自研超分技术，对标 NVIDIA DLSS，支持 Linux Vulkan 后端与 UE 插件 |
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Realtime Path Tracer** | A real-time path tracing engine supporting **DXR 1.0/1.1**, multiple BVH implementations, SVGF denoising, and radiance caching. | C++ · DXR · Vulkan · SVGF |
+| **Dynamic Diffuse Global Illumination (DDGI)** | A high-performance DDGI implementation optimized for real-time engines. | C++ · Vulkan · GI |
+| **USD-Based Simulation Platform** | Developed a USD-driven simulation framework compatible with NVIDIA Isaac, featuring **Hydra multi-renderer backend** and PhysX integration. | C++ · OpenUSD · PhysX |
+| **FG+SS** | Custom **DLSS-like super-sampling SDK** with UE plugin and Vulkan/Linux backend support. | Vulkan · UE Plugin |
 
 ---
 
-## 📊 GitHub 状态
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yanbingxu&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yanbingxu&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yanbingxu&show_icons=true&theme=radical&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbingxu&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📫 联系我
+## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com)
-- 📧 邮箱: 605224031@qq.com
-- 🏠 个人主页: [https://yanbingxu.github.io](https://yanbingxu.github.io)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yanbingxu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yanbing.xu@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/yanbingxu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0077ff&height=150&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yanbingxu&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer"/>
+</p>
